@@ -46,4 +46,4 @@
   
   source -https://api.flutter.dev/flutter/widgets/FocusNode-class.html
   
-  # Similar  thing can be achieve by using ShortCut widget ,Actions Widget and Focus Widget  and combination of all three widget is FocusDetectorWidget. But it is very hard to maintain sometime so i prefer above methods.😁😁
+ ##### note-> Similar  thing can be achieve by using ShortCut widget ,Actions Widget and Focus Widget  and combination of all three widget is FocusDetectorWidget. But it is very hard to maintain sometime so i prefer above methods.😁😁
