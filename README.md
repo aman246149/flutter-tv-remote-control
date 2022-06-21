@@ -4,7 +4,7 @@
 
 ## To control app you only need these five button  Left,Right,Top,Bottom and center for select
 
-### Basic thing to control TV remote button
+### Basic thing to control TV remote button (You can achive this by using ShortCuts and focus)
 - You need shortCut keys widget -- to determine different Intent (Like select Intent) 
 -  Select Intent is enough to control the remote 
   
@@ -36,9 +36,11 @@
                         ));
                   },
  ```
+ - ![image](https://user-images.githubusercontent.com/53884276/174714294-9531b572-b5bf-4e0d-975f-66b9c4dc3596.png)
+
  
- 
- - If you want to perform any specific task from these four keys that is also very simple  
+ _______________________________________________________________________________________________________________________________________________________
+ ##  If you want to perform any specific task from these four keys that is also very simple  
  - visit this link to see the example to perform specific button task
   https://github.com/aman246149/flutter-tv-remote-control/blob/master/mysample/lib/main.dart 
   
