@@ -38,4 +38,10 @@
  ```
  
  
- - If you want to perform any specific task from these four keys that is also very simple 
+ - If you want to perform any specific task from these four keys that is also very simple  
+ - visit this link to see the example to perform specific button task
+  https://github.com/aman246149/flutter-tv-remote-control/blob/master/mysample/lib/main.dart 
+  
+  source -https://api.flutter.dev/flutter/widgets/FocusNode-class.html
+  
+  - Similar thing can be achieve by using ShortCut widget ,Actions Widget and Focus Widget  and combination of all three widget is FocusDetectorWidget
